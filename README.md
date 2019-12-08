@@ -1,5 +1,5 @@
 # FaceBlurOcv
-Verify usefull tool for privacy protection, implemented with CNN, Face Recognition and Open CV
+Simple, adjustable usefull tool for privacy protection, implemented with CNN, Face Recognition and Open CV
 
 Tested on Windows 10!
 
